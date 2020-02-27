@@ -1,0 +1,243 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#wrapper{
+    width: 950px;
+    height: 1085px;
+    margin: 0px auto;
+    background-image: radial-gradient( #58424d, #5b4651, #150a0d);
+
+}
+
+
+#jayne-header{
+    width: 950px;
+    height: 75px;
+    background-color: #f4f4f4;
+
+}
+
+.Doe-name{
+    padding: 10px;
+    display: inline-block;
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 20px;
+    font-family: fantasy;
+
+}
+
+.shadow-master{
+    padding: 10px;
+    display: inline-block;
+    font-size: 23px;
+    font-weight: bold;
+    margin-left: 315px;
+
+}
+
+.inline-block{
+    display: inline-block;
+
+}
+
+#photo-of-me{
+    padding: 0px;
+    margin-left: 25px;
+    margin-top: 20px;
+    vertical-align: bottom;
+    border: #b3b3b3 solid 5px;
+    display: inline-block;
+
+}
+
+.about-main{
+    padding: 0px;
+    height: 270px;
+    width: 475px; 
+    margin-left:21px;
+    margin-top: 20px;
+    vertical-align: bottom;
+    display: inline-block;
+    background-image: linear-gradient(to right, #fefefe, #d2bfd1);
+
+}
+
+#about-content-header{
+    height: 40px;
+    width: 100%;
+    padding: 6px;
+    font-size: 23px;
+    color: #fefeff;
+    background-image: linear-gradient( #a8a8ac, #817f8b,  #a8a8ac);
+    display: inline-block;
+
+}
+
+.about-p-tag{
+    padding: 10px;
+
+}
+
+#continue-reading{
+    color: #181820;
+    padding: 10px;
+
+}
+
+#main-body-box{
+    height: 580px;
+    width: 900px;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-right: 25px;
+    display: inline-block;
+
+}
+
+.justify{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.main-body-parameter{
+    width: 900px;
+
+
+}
+
+.main-body-content-header{
+    height: 40px;
+    width: 285px;
+    padding: 8px;
+    font-size: 20px;
+    color: #fefeff;
+    background-image: linear-gradient( #a8a8ac, #817f8b,  #a8a8ac);
+    display: inline-block;
+
+}
+
+.main-body-photo{
+    height: 150px;
+    width: 285px;
+    padding: 0px;
+    display: inline-block;
+    vertical-align: bottom;
+    
+}
+
+.main-body-content{
+    height: 175px;
+    width: 285px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 15px;
+    background-image: linear-gradient(to right, #ffffff, #d3c1d2);
+
+}
+
+.lower-content-body{
+    height: 175px;
+    width: 285px;
+    background-image: linear-gradient(to right, #ffffff, #d3c1d2)
+
+}
+
+.lower-tag-content{
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+    display: inline-block;
+
+}
+
+#la-button-parameter{
+    height: 55px;
+    margin-left: 110px;
+    margin-top: 10px;
+    
+
+}
+
+#la-mode-button{
+    height: 25px;
+    width: 70px;
+    color: #f7ffed;
+    font-size: 13px;
+    border-radius: 10px;
+    background-color: #336b4e;
+    border: black solid 1px;
+
+}
+
+#family-button-parameter{
+    height: 55px;
+    margin-left:90px;
+    margin-top: 10px;
+}
+
+#family-contacts-button{
+    height: 25px;
+    width: 110px;
+    color: #f7ffed;
+    font-size: 13px;
+    border-radius: 10px;
+    background-color: #336b4e;
+    border: black solid 1px;
+
+}
+
+#five-button-parameter{
+    height: 55px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+#five-eleven-button{
+    height: 25px;
+    width: 75px;
+    color: #f7ffed;
+    font-size: 13px;
+    border-radius: 10px;
+    background-color: #336b4e;
+    border: black solid 1px;
+
+}
+
+#footer-main{
+    height: 90px;
+    margin-top: 25px;
+    background-color: #f6f6f6;
+
+}
+
+.footer-sub-content{
+    height: 45px;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+#email-content{
+    padding-top: 15px;
+
+}
+
+.sub-footer-links{
+    padding-top: 5px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.sub-footer-text{
+    font-size: 18px;
+    font-style: italic;
+    vertical-align: top;
+
+}
